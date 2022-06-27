@@ -89,7 +89,7 @@ Deliverable 2: Use the SMOTEENN algorithm to Predict Credit Risk
 
 # Conclusion
 
-In reviewing all six models, the EasyEnsembleClassifer model yielded the best results with an accuracy rate of 92 and a 7% precision rate when predicting "High Risk candidates. The sensitivity rate was also the highest at 91% compared to the other models. The result for predicting "Low Risk" was also the highest with the sensitivity rate at 100% and an F1 score of 94%. Therefore, if a model needed to be recommended to perform this type of analysis would bt EastEnsembleClassifier
+In reviewing all six models, the EasyEnsembleClassifer model yielded the best results with an accuracy rate of 92 and a 7% precision rate when predicting "High Risk candidates. The sensitivity rate was also the highest at 91% compared to the other models. The result for predicting "Low Risk" was also the highest with the sensitivity rate at 100% and an F1 score of 14%. Therefore, if a model needed to be recommended to perform this type of analysis would bt EastEnsembleClassifier
 
 
 
